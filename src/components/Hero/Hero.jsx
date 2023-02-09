@@ -19,7 +19,7 @@ const Hero = () => {
           >
             Hey There,
             <br />
-            We are The Ink.
+            We are The Ink!!
           </motion.span>
           <motion.span
             className="secondaryText"

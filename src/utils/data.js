@@ -29,23 +29,23 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
+    place: "Self-Employed",
+    tenure: "May 2018 - Sep 2019",
     role: "Visual Designer",
     detail:
       "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
   },
   {
     place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
+    tenure: "Apl 2018 - Aug 2020",
     role: "UI/UX Designer",
     detail:
       "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
   },
   {
     place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    tenure: "Sep 2020 - Jun 2022",
+    role: "Product Designer",
     detail:
       "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
   },
@@ -53,31 +53,31 @@ export const workExp = [
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Davron Soliyev",
+    post: "Social Media Influencer",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Very satisfied with their work. I collaborated with the agency on 3 projects, for each of them there were no complaints, the team professionally completed its tasks. ",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Kyndal Robertson",
+    post: "Entrepreneur",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "The best branding agency!!!Professionalism and efficiency at every stage of cooperation",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Vera F.",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I made 2 packs and 1 corp of the brand. The packages showed results with a significant increase in both sales and customer feedback.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Svetlana K.",
+    post: "Social Media Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "The best branding agency! They justify their place in the ratings with their work! Comprehensive individual approach on request. Thank you",
     img: "./people1.png",
   },
   {

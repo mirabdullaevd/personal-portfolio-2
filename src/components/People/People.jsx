@@ -31,7 +31,7 @@ const People = () => {
             We got a job that was in accordance with the salary and field of
             work
           </p>
-          <p>The process of submitting an appilication was quite cosy</p>
+          {/* <p>The process of submitting an application was quite cosy</p> */}
         </div>
 
         <div className={`yPaddings ${css.comments}`}>
